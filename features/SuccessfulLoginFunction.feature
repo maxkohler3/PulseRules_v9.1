@@ -1,5 +1,5 @@
 Feature: SuccessfulLoginFunction
-  Given: I am on the sign in page- FINGERS CROSSED!!
+  Given: I am on the sign in page- FINGERS CROSSED!
   When: I click login
   Then: I should see "Welcome Max"
   And: My profile information populates
