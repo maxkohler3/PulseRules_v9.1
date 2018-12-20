@@ -1,7 +1,7 @@
 Feature: Successful Login
   Given: I am on the sign in page
   When: I click login
-  Then: tI should see "Welcome Max"
+  Then: I should see "Welcome Max"
   And: My profile information populates
   <Some interesting description here>
 
