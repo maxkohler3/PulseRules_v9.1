@@ -1,5 +1,5 @@
 Feature: Successful Login
-  Given: I am on the sign in page
+  Given: I am on the sign in PAGE
   When: I click login
   Then: I should see "Welcome Max"
   And: My profile information populates
